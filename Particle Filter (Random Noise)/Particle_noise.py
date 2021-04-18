@@ -168,7 +168,7 @@ class Particle_Filter:
 ###################################
 
 def main():
-    cap = cv2.VideoCapture('Simulation.mp4')        # Import the simulation video
+    cap = cv2.VideoCapture('Red_Ball_with_obstracle.mp4')        # Import the simulation video
 
     if(cap.isOpened() == False):
         print("Error opening video")
