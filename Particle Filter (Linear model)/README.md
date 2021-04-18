@@ -12,7 +12,7 @@ Better than Random noise model for modeling real-world object showing overall li
 
 ## Sample Image:
 
-![img](https://github.com/MaddyUnknown/Object-Detection-and-Tracking/blob/main/Particle%20Filter%20(Random%20Noise)/Particle%20view.gif)
+![img](https://github.com/MaddyUnknown/Object-Detection-and-Tracking/blob/main/Particle%20Filter%20(Linear%20model)/Particle_view.gif)
 
 ## Library used:
 - `OpenCV 4.1.1`
