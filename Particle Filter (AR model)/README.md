@@ -31,6 +31,7 @@ If number of past data acquired in greater than 5, it predicts the coefficients 
 
 ### Detector Implementation:
 For the detector to work, a folder named `saved_models` need to be created under the root directory `Particle_Filter` and the detector model  `detr_6.pth` needs to be stored inside it.
+The used detector can be found in the repository ![detr-torch](https://github.com/gittygupta/detr-torch).
 
 
 ### Sample Output:
